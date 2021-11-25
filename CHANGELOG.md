@@ -7,9 +7,13 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 ### Added
 
 ### Changed
-- galleryBanner color.
 
 ### Removed
+
+## [1.1.0] - [25/11/2021]
+
+### Changed
+- galleryBanner color.
 
 ## [1.0.0] - [25/11/2021]
 
