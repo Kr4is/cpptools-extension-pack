@@ -17,6 +17,7 @@
         "donjayamanne.githistory", 
         "eamodio.gitlens", 
         "formulahendry.code-runner", 
+        "ionutvmi.path-autocomplete", 
         "ms-azuretools.vscode-docker",
         "ms-vscode.cpptools-extension-pack", 
         "TabNine.tabnine-vscode", 
