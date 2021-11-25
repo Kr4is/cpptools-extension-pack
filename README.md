@@ -1,16 +1,18 @@
-# README
+# C/C++ Extension Pack
 
-## This is the README for your extension pack "cpptools-extension-pack"
+This extension pack includes a set of must have extensions for C++ development in Visual Studio Code:
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+* [Include Autocomplete](https://marketplace.visualstudio.com/items?itemName=ajshort.include-autocomplete)
+* [cmake-format](https://marketplace.visualstudio.com/items?itemName=cheshirekow.cmake-format)
+* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
+* [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen)
+* [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+* [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+* [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+* [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+* [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+* [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
+* [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+* [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
+* [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+* [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)
