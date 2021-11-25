@@ -3,10 +3,19 @@
     "displayName": "C/C++ Extension Pack",
     "description": "Must have extensions for C++ development in Visual Studio Code.",
     "repository": {
+        "type": "git",
         "url": "https://github.com/Kr4is/cpptools-extension-pack"
     },
+    "bugs": {
+        "url": "https://github.com/Kr4is/cpptools-extension-pack/issues",
+    },
+    "homepage": "https://github.com/Kr4is/cpptools-extension-pack/blob/master/README.md",
     "publisher": "Kr4is",
     "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#C80000",
+        "theme": "dark"
+    },
     "readme": "README.md",
     "author": {
       "name": "Bruno Cabado Lousa (Kr4is)"
