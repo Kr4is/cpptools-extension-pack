@@ -21,7 +21,7 @@
       "name": "Bruno Cabado Lousa (Kr4is)"
     },
     "license": "SEE LICENSE IN LICENSE.txt",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.62.0"
     },
