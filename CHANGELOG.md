@@ -5,7 +5,7 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 ## [Unreleased]
 
 ### Added
-
+- Project icon.
 - Project license.
 - Pre-commit hook configuration.
 - Initial package extensions.
