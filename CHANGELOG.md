@@ -5,6 +5,7 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 ## [Unreleased]
 
 ### Added
+- Repository field.
 - Keywords, publisher, icon, readme, author name and license fields.
 - Project icon.
 - Project license.
