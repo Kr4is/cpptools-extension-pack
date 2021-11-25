@@ -1,0 +1,27 @@
+{
+    "name": "cpptools-extension-pack",
+    "displayName": "C/C++ Extension Pack",
+    "description": "Must have extensions for C++ development in Visual Studio Code.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "ajshort.include-autocomplete", 
+        "cheshirekow.cmake-format", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "cschlosser.doxdocgen", 
+        "donjayamanne.githistory", 
+        "eamodio.gitlens", 
+        "formulahendry.code-runner", 
+        "ms-azuretools.vscode-docker",
+        "ms-vscode.cpptools-extension-pack", 
+        "TabNine.tabnine-vscode", 
+        "twxs.cmake", 
+        "vscode-icons-team.vscode-icons", 
+        "xaver.clang-format"
+    ]
+}
