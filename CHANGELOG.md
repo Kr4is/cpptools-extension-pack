@@ -7,6 +7,7 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 ### Added
 
 ### Changed
+- galleryBanner color.
 
 ### Removed
 
