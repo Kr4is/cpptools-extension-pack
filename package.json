@@ -9,20 +9,20 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "ajshort.include-autocomplete", 
-        "cheshirekow.cmake-format", 
-        "CoenraadS.bracket-pair-colorizer-2", 
-        "cschlosser.doxdocgen", 
-        "donjayamanne.githistory", 
-        "eamodio.gitlens", 
-        "formulahendry.code-runner", 
-        "ionutvmi.path-autocomplete", 
+    "extensionPack": [
+        "ajshort.include-autocomplete",
+        "cheshirekow.cmake-format",
+        "CoenraadS.bracket-pair-colorizer-2",
+        "cschlosser.doxdocgen",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "formulahendry.code-runner",
+        "ionutvmi.path-autocomplete",
         "ms-azuretools.vscode-docker",
-        "ms-vscode.cpptools-extension-pack", 
-        "TabNine.tabnine-vscode", 
-        "twxs.cmake", 
-        "vscode-icons-team.vscode-icons", 
+        "ms-vscode.cpptools-extension-pack",
+        "TabNine.tabnine-vscode",
+        "twxs.cmake",
+        "vscode-icons-team.vscode-icons",
         "xaver.clang-format"
     ]
 }
