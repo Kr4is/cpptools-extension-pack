@@ -51,7 +51,10 @@
         "git",
         "run",
         "AI",
-        "tabnine"
+        "tabnine",
+        "cpp-reference",
+        "clang-tidy",
+        "clangd"
       ],
     "extensionPack": [
         "ajshort.include-autocomplete",
@@ -61,9 +64,12 @@
         "donjayamanne.githistory",
         "eamodio.gitlens",
         "formulahendry.code-runner",
+        "Guyutongxue.cpp-reference",
         "ionutvmi.path-autocomplete",
+        "llvm-vs-code-extensions.vscode-clangd",
         "ms-azuretools.vscode-docker",
         "ms-vscode.cpptools-extension-pack",
+        "notskm.clang-tidy",
         "TabNine.tabnine-vscode",
         "twxs.cmake",
         "vscode-icons-team.vscode-icons",

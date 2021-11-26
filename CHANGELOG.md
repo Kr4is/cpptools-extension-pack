@@ -5,6 +5,9 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 ## [Unreleased]
 
 ### Added
+- Cpp Reference extension.
+- clangd extension.
+- Clang-Tidy extension.
 
 ### Changed
 
