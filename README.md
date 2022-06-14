@@ -4,7 +4,6 @@ This extension pack includes a set of must have extensions for C++ development i
 
 * [Include Autocomplete](https://marketplace.visualstudio.com/items?itemName=ajshort.include-autocomplete)
 * [cmake-format](https://marketplace.visualstudio.com/items?itemName=cheshirekow.cmake-format)
-* [Bracket Pair Colorizer 2](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 * [Doxygen Documentation Generator](https://marketplace.visualstudio.com/items?itemName=cschlosser.doxdocgen)
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 * [GitLens - Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
