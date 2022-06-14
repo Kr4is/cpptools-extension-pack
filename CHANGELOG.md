@@ -10,6 +10,11 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 
 ### Removed
 
+## [14/06/2022]
+
+### Removed
+- Deprecated bracket colorizer extension
+
 ## [1.2.0] - [26/11/2021]
 
 ### Added
