@@ -14,7 +14,6 @@ This extension pack includes a set of must have extensions for C++ development i
 * [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 * [C/C++ Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack)
 * [Clang-Tidy](https://marketplace.visualstudio.com/items?itemName=notskm.clang-tidy)
-* [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
 * [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 * [Clang-Format](https://marketplace.visualstudio.com/items?itemName=xaver.clang-format)

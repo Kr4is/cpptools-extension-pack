@@ -10,18 +10,28 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 
 ### Removed
 
+## [1.3.2] - [21/10/2024]
+
+### Removed
+
+- Removed tabnine extension.
+
 ## [1.3.1] - [14/06/2022]
+
 ### Changed
+
 - Update readme with current extensions
 
 ## [1.3.0] - [14/06/2022]
 
 ### Removed
+
 - Deprecated bracket colorizer extension
 
 ## [1.2.0] - [26/11/2021]
 
 ### Added
+
 - Cpp Reference extension.
 - clangd extension.
 - Clang-Tidy extension.
@@ -29,11 +39,13 @@ All notable changes to the "cpptools-extension-pack" extension pack will be docu
 ## [1.1.0] - [25/11/2021]
 
 ### Changed
+
 - galleryBanner color.
 
 ## [1.0.0] - [25/11/2021]
 
 ### Added
+
 - Repository type, bugs, homepage and galleryBanner fields.
 - Repository field.
 - Keywords, publisher, icon, readme, author name and license fields.
